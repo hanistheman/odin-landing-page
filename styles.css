@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header {
+    background-color: navy;
+}
+.main-one {
+    background-color: white;
+}
+.main-two {
+    background-color: lightgray;
+}
+.main-three {
+    background-color: white;
+}
+.main-four {
+    background-color: white;
+}
+.footer {
+    background-color: navy;
+}
