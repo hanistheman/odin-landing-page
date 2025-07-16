@@ -1,11 +1,16 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .header {
-    background-color: navy;
+    background-color: #1f2937;
 }
 .main-one {
     background-color: white;
+}
+.hero-main-text {
+    font-size: 48px;
+    background-color: #F9FAF8;
+    font-weight: 900;
 }
 .main-two {
     background-color: lightgray;
